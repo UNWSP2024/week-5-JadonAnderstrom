@@ -29,6 +29,7 @@ def main():
 if __name__ == "__main__":
     main()
 
+#Jadon Anderstrom, Oct 1, "Quiz Generator".
 # The program should allow the student to enter the answer.  
 # If the answer is correct, a message of congratulations should be displayed.  
 # If the answer is incorrect a message showing the correct answer should be displayed.  
